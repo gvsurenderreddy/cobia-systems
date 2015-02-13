@@ -4,7 +4,7 @@
 Plugin Name: Cobia Systems
 Plugin URI: http://cobiasystems.com
 Description: Helps the end-user migrate and manage their online management system including their web properties, social networking, branding and PR.
-Version: 0.1
+Version: 0.1.1
 Author: jimcobia
 Author URI: http://cobiasystems.com
 License: GNU GPL 2.0
