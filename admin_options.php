@@ -36,7 +36,7 @@ if( !class_exists( 'Cobia_System_Admin' ) ) {
 
 		function notice() {
 			
-			echo '<div class="updated"><p>' . sprintf( __( 'If you find this plugin useful please consider giving it a %sfive star%s rating.', $this->slug ), '<a target="_blank" href="http://google.com/' . $this->slug . '?rate=5#postform">', '</a>' ) . '</p></div>';
+			echo '<div class="updated"><p>' . sprintf( __( 'If you find this plugin useful please consider giving it a %sfive star%s rating.', $this->slug ), '<a target="_blank" href="https://wordpress.org/support/view/plugin-reviews/cobia-systems' . $this->slug . '?rate=5#postform">', '</a>' ) . '</p></div>';
 			if (get_option('permalink_structure', '') == "") {
 				echo '<div class="error"><p>Your permalinks option is set to Default. This setting must be changed to another value in order for the Cobia System to work. <a href="/wp-admin/options-permalink.php">Click here to go to the page to change this setting.</a></p></div>';
 			}
