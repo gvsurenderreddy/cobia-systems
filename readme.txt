@@ -38,6 +38,8 @@ It's best to use the build in delete function of WordPress. That way all the sto
 
 = 0.1 (02.11.2015) =
 * Initial Release
+= 0.1.2 (02.18.2015) =
+* Fixed broken Settings Link
 
 == Upgrade notice ==
 
