@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Syndicates content from the Cobia Systems...
+Syndicates content from the Cobia Systems and helps the WordPress user to manage all of their web properties in one place!
 
 == Description ==
 
